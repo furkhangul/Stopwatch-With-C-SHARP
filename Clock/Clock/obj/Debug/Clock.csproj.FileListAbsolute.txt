@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Clock\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Furkan\source\repos\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Furkan\source\repos\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Furkan\source\repos\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\Furkan\source\repos\Clock\Clock\obj\Debug\Clock.pdb
